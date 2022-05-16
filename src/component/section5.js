@@ -44,8 +44,8 @@ const Section5 = () => {
                     <div className="tal mt1"><p className="para"> hello sir how are you</p></div>
                 </div>
     </div>
-    <div className="mt2 plans_name cw">
-    <div  className="mt1">Automatic Backup</div>
+    <div className="mt2 plans_name cw fs1 tac">
+    <div  className="mt1 ">Automatic Backup</div>
     <div className="mt1">Automatic Backup</div>
     <div className="mt1">Automatic Backup</div>
     <div className="mt1">Automatic Backup</div>
@@ -61,7 +61,7 @@ const Section5 = () => {
                     <div className="mt1 tac"> <button className="btn3">CHOOSE PLAN</button></div>
                 </div>
     </div>
-    <div className="mt2">
+    <div className="mt2 fs1">
     <div className="mt1 tac">yes</div>
     <div className="mt1 tac">yes</div>
     <div className="mt1 tac">yes</div>
@@ -80,7 +80,7 @@ const Section5 = () => {
 
                 </div>
     </div>
-    <div className="mt2 cw">
+    <div className="mt2 cw fs1">
     <div className="mt1 tac">yes</div>
     <div className="mt1 tac">yes</div>
     <div className="mt1 tac">no</div>
@@ -99,7 +99,7 @@ const Section5 = () => {
 
                 </div>
     </div>
-    <div className="mt2 ">
+    <div className="mt2 fs1">
     <div className="mt1 tac">yes</div>
     <div className="mt1 tac">yes</div>
     <div className="mt1 tac">no</div>
