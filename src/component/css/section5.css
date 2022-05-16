@@ -1,0 +1,48 @@
+.section5{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+.s5{
+    margin: 1vw;
+    width: 20%;
+}
+.s5_3{
+    background-color: #4678ee;
+    padding: 10px;
+    border-radius: 10px;
+}
+.mt2{
+    margin-top: 2vw;
+}
+.btn3{
+    border: 2px solid #008cff;
+    background-color: transparent;
+    color: #008cff;
+    padding: 5px;
+    font-size: 1vw;
+}
+.mt1{
+    margin-top: 1vw;
+}
+.bold{
+    font-weight: 600;
+}
+.fs2{
+    font-size: 2vw;
+}
+.tac{
+    text-align: center;
+}
+.plans_name{
+    
+    background-color:#4678ee ;
+    padding: 10px;
+    border-radius: 10px 0px 0px 10px;
+}
+.cw{
+    color: white;
+}

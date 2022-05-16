@@ -1,0 +1,45 @@
+
+.section8{
+    width: 100%;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+    background-color: rgba(247,247,247,255);
+}
+.tc{
+    text-align: center;
+}
+.c8_b_b ul{
+    display: flex;
+    width: 100%;
+    list-style: none;
+}
+.c8_b_b ul li {
+    padding: 2vw;
+    
+    
+}
+.c8_b{
+    width: 60%;
+    margin: auto;
+    margin-top: 2vw;
+    background-color: white;
+    border-radius: 10px;
+    
+}
+.c8_b_t{
+    background-color: #f2f5fb;
+    border-radius: 10px 10px 0px    0px;
+    padding: 10px;
+    align-items: center;
+}
+.c8_m{
+    margin-top: 1vw;
+}
+.log_name svg{
+    width: 6vw;
+    /* top:1vw ;  */
+    /* position: relative; */
+}
+.read_full_case{
+    margin-left: 2vw;
+}

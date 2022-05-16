@@ -1,0 +1,53 @@
+.section7{
+    width: 100%;
+    display: flex;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+.s7_2{
+    margin-top: 1vw;
+}
+.s7_3{
+    margin-top: 1vw;
+}
+.s7_4{
+    margin-top: 1vw;
+}
+.s7_r{
+    width: 50%;
+    padding-right: 4vw;
+}
+.s7_l{
+    width: 50%;
+    padding-left: 4vw;
+}
+.q_a{
+    border: 1px solid #dadada;
+}
+.q_a hr{
+    background-color: #dadada;
+    color: #dadada;
+}
+.qn_content{
+    width: 95%;
+    padding-left: 3vw;
+    padding-right: 3vw;
+
+    margin: 1vw;
+    font-size: 1.3vw;
+    font-weight: 800;
+    
+}
+.qn_container{
+    display: flex;
+}
+.a{
+    margin-top: 10px;
+}
+.btn4{
+    background-color: transparent;
+    margin: 5px;
+    border-style: none;
+    font-size: 2vw;
+    font-weight: 800;
+}

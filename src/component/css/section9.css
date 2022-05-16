@@ -1,0 +1,40 @@
+.section9{
+    width: 100%;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+}
+.c9_b{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.c9_b ul{
+align-items: center;
+justify-content: center;
+    list-style: none;
+}
+.c9_b ul li{
+    /* margin: auto; */
+    width: 40%;
+    margin: 1vw;
+    
+   
+}
+.card1{
+    border:1px solid #dadada;
+    border-radius: 10px;
+    padding: 30px;
+    margin: 2vw;
+    box-shadow: 1px 1px 10px #dadada;
+
+}
+.head2{
+    font-size: 1.3vw;
+    font-weight: bold;
+}
+.c9_m{
+    margin-top: 1vw;
+}
+.title{
+    margin-bottom: 1vw;
+}

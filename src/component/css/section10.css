@@ -1,0 +1,59 @@
+.section10{
+    width: 100%;
+    display: flex;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+    background-color: black;
+    color: white;
+}
+.s10_l{
+    padding-left: 4vw;
+    margin:auto;
+    font-size: 1vw;
+}
+.s10_r{
+    padding-right: 4vw;
+    margin: auto;
+    display: flex;
+    text-align: center;
+}
+.s10_list{
+    list-style: none;
+}
+.s10_list li{
+    margin: 3vw;
+    font-size: 1vw;
+}
+
+.footer{
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+    text-align:center;
+    color: white;
+    position: relative;
+    top: -30px;
+
+}
+.footer span{
+    margin: auto;
+    margin-left: 1vw;
+
+}
+.head2{
+    
+}
+.address{
+    margin-top: 3vw;
+}
+.social_logo{
+    display: flex;
+}
+.social_logo svg{
+    margin:2vw;
+    width: 2vw;
+    margin-left: 0;
+}
+.head_of_list{
+    font-size: 1vw;
+}

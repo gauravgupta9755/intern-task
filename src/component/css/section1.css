@@ -1,0 +1,63 @@
+.section1{
+    display: flex;
+    width: 100%;
+    
+}
+.section1_left{
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    padding-top: 5vw;
+    padding-bottom: 5vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
+
+}
+.s1{
+    text-align: left;
+    margin-top: 2vw;
+}
+.section1_right{
+    width: 50%;
+    background-color: rgb(135, 194, 223);
+    background-image: url("../../../public/image/atlas.png");
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.section1_right img{
+    
+    
+}
+.heading{
+    font-size:2vw;
+    font-weight: 800;
+
+
+
+}
+.btn{
+    font-size: 1vw;
+    border-style: none;
+    border-radius: 3px;
+    padding: 10px;
+    background-color: #008cff;
+    margin: 10px;
+}
+.btn1{
+    background-color: transparent;
+    border-style: none;
+    margin: 10px;
+    font-size: 1vw;
+    font-weight: 600;
+
+}
+.para{
+    font-size: 1vw;
+    font-weight: 500;
+    margin-top: 1vw;
+}
+.df{
+    display: flex;
+}

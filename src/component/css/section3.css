@@ -1,0 +1,37 @@
+.section3{
+    width: 100%;
+    display: flex;
+    padding-top: 4vw;
+    padding-bottom: 4vw;
+
+}
+.s3_l{
+    width: 20%;
+
+padding-left: 4vw;
+}
+.s3_r{
+    width: 80%;
+    display: flex;
+    padding-right: 4vw;
+}
+#s3_para{
+    font-size: 1vw;
+}
+.s3_l_t{
+    font-size: 2vw;
+    font-weight: 800;
+}
+.s3_t{
+    font-weight: 800;
+}
+.s3_components{
+    margin-right: 1vw;
+    margin-left: 1vw;
+}
+.s3_b{
+    margin-top: 1vw;
+}
+.check{
+    width: 20px;
+}

@@ -1,0 +1,96 @@
+nav{
+    display:  flex;
+    font-size: 1vw;
+    width: 100%;
+    height: 60px;
+    box-shadow: 1px 1px 10px #dadada;
+    align-items: center;
+    justify-content: center; 
+    /* z-index: 2; */
+    position: relative;
+}
+.n1{
+    width: 10%;
+}
+.n2{
+    width: 60%;
+}
+.n2 button{
+   background-color: transparent;
+   border-style: none;
+}
+.n3{
+    width: 30;
+}
+.n2_ul{
+    display: flex;
+    list-style: none;
+     padding-right: 10vw;
+     font-weight: 400;
+}
+.n2 ul li{
+    /* margin-right: 3vw; */
+    margin: auto;
+    
+
+}
+.n2 ul li select{
+    border-style: none;
+    font-size: 1vw;
+    
+    
+    
+}
+.n2 ul li select::selection{
+
+}
+.n2 ul li select option {
+    font-size: 1vw;
+    border-radius: 0px;
+
+}
+.btn2{
+    border-style: none;
+    background-color: white;
+    margin: 10px;
+    font-weight: 600;
+}
+.atlas_logo{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.atlas_logo svg{
+    width: 10vw;
+    position: relative;
+    top: -50%;
+}
+.atlas_logo img{
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+}
+.n_item1{
+    position: absolute;
+    display: none;
+    list-style: none;
+    background-color: white;
+    text-align: center;
+    
+    /* box-shadow: 1px 1px 10px black; */
+    
+}
+.n_item1{
+    display: inline;
+}
+.n_item1 li{
+    margin-right: 0;
+    margin: auto;
+    padding: 10px;
+}
+.fw-500{
+    font-weight: 500;
+}
+.fs{
+    font-size: 1vw;
+}
